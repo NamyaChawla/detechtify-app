@@ -1,1 +1,1 @@
-# detechtify-app
+# detechtify app
